@@ -1,4 +1,4 @@
-package com.uequations.thirdparty.function;
+package com.uequations.thirdpary.common.function;
 
 import java.util.function.ToIntBiFunction;
 
